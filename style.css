@@ -1,0 +1,35 @@
+body {
+  background-color: #f9fafc;
+  flex: auto;
+}
+.a1 {
+  color: black;
+  flex-direction: row;
+}
+.hireus {
+  list-style-type: none;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+.ul1 {
+  list-style-type: none;
+  color: black;
+}
+.ul2 {
+  list-style-type: none;
+  color: black;
+}
+.ul3 {
+  list-style-type: none;
+  color: black;
+}
+footer {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  background-color: rgba(247, 193, 162, 0.7);
+  margin: 0px;
+  padding: 10px;
+}
